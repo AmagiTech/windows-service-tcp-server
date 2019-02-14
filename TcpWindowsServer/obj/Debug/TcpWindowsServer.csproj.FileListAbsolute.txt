@@ -1,0 +1,8 @@
+c:\users\developer\documents\visual studio 2015\Projects\TcpWindowsServer\TcpWindowsServer\bin\Debug\TcpWindowsServer.exe.config
+c:\users\developer\documents\visual studio 2015\Projects\TcpWindowsServer\TcpWindowsServer\bin\Debug\TcpWindowsServer.exe
+c:\users\developer\documents\visual studio 2015\Projects\TcpWindowsServer\TcpWindowsServer\bin\Debug\TcpWindowsServer.pdb
+c:\users\developer\documents\visual studio 2015\Projects\TcpWindowsServer\TcpWindowsServer\obj\Debug\TcpWindowsServer.exe
+c:\users\developer\documents\visual studio 2015\Projects\TcpWindowsServer\TcpWindowsServer\obj\Debug\TcpWindowsServer.pdb
+c:\Users\developer\Documents\Visual Studio 2015\Projects\TcpWindowsServer\TcpWindowsServer\bin\Debug\InstallService.bat
+c:\Users\developer\Documents\Visual Studio 2015\Projects\TcpWindowsServer\TcpWindowsServer\obj\Debug\TcpWindowsServer.ProjectInstaller.resources
+c:\Users\developer\Documents\Visual Studio 2015\Projects\TcpWindowsServer\TcpWindowsServer\obj\Debug\TcpWindowsServer.csproj.GenerateResource.Cache

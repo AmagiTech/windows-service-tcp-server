@@ -1,0 +1,6 @@
+c:\Users\developer\Documents\Visual Studio 2015\Projects\TcpWindowsServer\TcpWindowsServer.UnitTests\bin\Debug\TcpWindowsServer.UnitTests.dll
+c:\Users\developer\Documents\Visual Studio 2015\Projects\TcpWindowsServer\TcpWindowsServer.UnitTests\bin\Debug\TcpWindowsServer.UnitTests.pdb
+c:\Users\developer\Documents\Visual Studio 2015\Projects\TcpWindowsServer\TcpWindowsServer.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Users\developer\Documents\Visual Studio 2015\Projects\TcpWindowsServer\TcpWindowsServer.UnitTests\obj\Debug\TcpWindowsServer.UnitTests.csprojResolveAssemblyReference.cache
+c:\Users\developer\Documents\Visual Studio 2015\Projects\TcpWindowsServer\TcpWindowsServer.UnitTests\obj\Debug\TcpWindowsServer.UnitTests.dll
+c:\Users\developer\Documents\Visual Studio 2015\Projects\TcpWindowsServer\TcpWindowsServer.UnitTests\obj\Debug\TcpWindowsServer.UnitTests.pdb
